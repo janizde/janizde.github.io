@@ -1,6 +1,3 @@
-&nbsp;
-# janizde.github.io
-
 ## Projects
 
 ### WordPress Opening Hours
