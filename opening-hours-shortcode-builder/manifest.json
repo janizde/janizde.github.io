@@ -1,6 +1,0 @@
-{
-  "short_name": "Opening Hours Shortcode Builder",
-  "name": "UI to generate shortcodes for the WordPress Opening Hours plugin",
-  "start_url": "./index.html",
-  "display": "standalone"
-}
